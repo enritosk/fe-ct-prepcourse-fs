@@ -4,8 +4,10 @@
 function devolverString(string) {
    // Debe retornar un string.
    // Tu código:
-}
-
+   function retornastring () {
+return "hola mundo"
+const retornar = retornastring ()
+console.log(retornar)
 // ⛔️ "X" e "Y" son números.
 
 function suma(x, y) {
