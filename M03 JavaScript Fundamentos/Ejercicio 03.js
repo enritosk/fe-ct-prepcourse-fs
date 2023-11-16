@@ -5,11 +5,11 @@ function sonIguales(x, y) {
    // Retorna true si "x" e "y" son iguales.
    // De lo contrario, retorna false.
    // Tu código:
-   function sonIguales(x, y)
-return x === y;}
+
+return x === y; 
 const resultado = sonIguales(5, 5);
 
-const resultado2 = sonIguales(10, 3=;)
+const resultado2 = sonIguales(10, 3);
 
 
 function tienenMismaLongitud(str1, str2) {
@@ -54,4 +54,4 @@ module.exports = {
    mayorQueCincuenta,
    esPar,
    esImpar,
-};
+
